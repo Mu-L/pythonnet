@@ -5,6 +5,14 @@ project adheres to [Semantic Versioning][].
 
 This document follows the conventions laid out in [Keep a CHANGELOG][].
 
+## Unreleased
+
+### Added
+
+### Changed
+
+### Fixed
+
 ## 3.1.0 - 2026-05-23
 
 ### Added
